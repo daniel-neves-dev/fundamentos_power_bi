@@ -31,7 +31,7 @@ Foca na distribuição de lucro por segmento e unidades vendidas em diferentes r
 ![paginna3](https://github.com/user-attachments/assets/052f6950-e7b4-47ff-b17b-d64ef4ef34d2)
 -------------------------------------------------------
 
-## Tecnologia Usada
+## Tecnologia usada.
 
 - **Power BI** - Ferramenta de visualização de dados utilizada para criar os relatórios interativos.
 -----------------------------------------------------------
