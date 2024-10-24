@@ -3,7 +3,7 @@
 <p></p>
 Objetivo:</h2>
 
-<p>Este projeto foi desenvolvido como parte do primeiro desafio da aula de fundamentos do Power BI oferecida pela Digital Innovation One (DIO), com foco no bootcamp NTT DATA Engenharia de Dados com Python. O objetivo do desafio foi criar relatórios de vendas considerando diversos produtos, segmentos e países, utilizando o Power BI.</p>
+<p>Este projeto foi desenvolvido como parte do primeiro desafio da aula de fundamentos do Power BI oferecida pela Digital Innovation One (DIO), com foco no bootcamp NTT DATA Engenharia de Dados com Python. O objetivo do desafio foi criar relatórios de vendas considerando diversos produtos, segmentos e países, utilizando os primeiros conceitos do Power BI.</p>
 
 Funcionalidades do Relatório.
 O relatório foi dividido em três principais painéis:
