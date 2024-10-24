@@ -1,8 +1,7 @@
 <h1>Relatório de Vendas em Power BI  </h1> 
-<h2>Desafio 1 - Fundamentos Power BI.
-<p></p>
-Objetivo:</h2>
+<h2>Desafio 1 - Fundamentos Power BI.</h2>
 
+<h3>Objetivo:</h3>
 <p>Este projeto foi desenvolvido como parte do primeiro desafio da aula de fundamentos do Power BI oferecida pela Digital Innovation One (DIO), com foco no bootcamp NTT DATA Engenharia de Dados com Python. O objetivo do desafio foi criar relatórios de vendas considerando diversos produtos, segmentos e países, utilizando os primeiros conceitos do Power BI.</p>
 
 Funcionalidades do Relatório.
